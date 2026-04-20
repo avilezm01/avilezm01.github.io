@@ -17,7 +17,7 @@ html{background-color:#edf3f8; }
 }
 a{
     font-family: monospace;
-   color: white;
+   color: #013f66;
 }
 .navbar{
     margin-right: 10px;
@@ -45,6 +45,9 @@ color: rgb(11, 10, 10);
 
 .text{
       font-family: monospace;
-    color: #694429;
+    color: #0c0a08;
   text-align: center;
+}
+ h2, h3, p {
+    text-align: center;
 }
